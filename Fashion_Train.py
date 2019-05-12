@@ -74,7 +74,7 @@ class FashionDataset(Dataset):
     def initDB(self, count, start = 0):
         self.start = start
 
-        all_images, classes_count, class_mapping = pickle.load(open("data.pk", "rb"))
+        all_images, classes_count, class_mapping = pickle.load(open("imagenet_test.pk", "rb"))
         self.classes = {}
         # Add classes
         for k,c in class_mapping.items():
@@ -84,7 +84,7 @@ class FashionDataset(Dataset):
         for k, item in enumerate(all_images[start:count+start]):
             self.add_image(source="Fashion",image_id=k, path=item['filepath'], width=item['width'], height=item['height'], bboxes=item['bboxes'])
 
-        self.rootpath = '/content/'
+        self.rootpath = ''
 
     # read image from file and get the 
     def load_image(self, image_id):
@@ -113,12 +113,12 @@ if __name__ == '__main__':
 
     config = RFCNNConfig()
     dataset_train = FashionDataset()
-    dataset_train.initDB(100000)
+    dataset_train.initDB(300)
     dataset_train.prepare()
 
     # Validation dataset
     dataset_val = FashionDataset()
-    dataset_val.initDB(5000, start=100000)
+    dataset_val.initDB(30, start=300)
     dataset_val.prepare()
 
     model = RFCN_Model(mode="training", config=config, model_dir=os.path.join(ROOT_DIR, "logs") )

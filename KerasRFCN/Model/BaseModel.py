@@ -289,7 +289,7 @@ class BaseModel(object):
             validation_steps=self.config.VALIDATION_STEPS,
             max_queue_size=100,
             workers=4,
-            use_multiprocessing=True,
+            use_multiprocessing=True,  #TODO: maybe change this to False??
         )
         self.epoch = max(self.epoch, epochs)
 

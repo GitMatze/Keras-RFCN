@@ -1,0 +1,813 @@
+data/test/0001386327595826.jpg,0,389,134,721,Shirt
+data/test/0005080de8a33baa.jpg,3,296,77,346,Skirt
+data/test/0005080de8a33baa.jpg,72,271,126,353,Skirt
+data/test/00053fc2c4f19251.jpg,224,527,313,651,Swimwear
+data/test/00053fc2c4f19251.jpg,359,431,467,593,Swimwear
+data/test/0017bed8817d317e.jpg,114,264,264,321,Sunglasses
+data/test/001c89242ad9886e.jpg,169,670,295,844,High heels
+data/test/001c89242ad9886e.jpg,330,705,471,922,High heels
+data/test/002000a73c004f28.jpg,93,21,575,965,Handbag
+data/test/004c44f7d2bc28e7.jpg,128,199,446,682,Shirt
+data/test/004c44f7d2bc28e7.jpg,582,154,958,507,Shirt
+data/test/0061ef57274343be.jpg,595,211,835,457,Skirt
+data/test/0061ef57274343be.jpg,165,658,204,751,High heels
+data/test/0061ef57274343be.jpg,201,657,262,763,High heels
+data/test/0061ef57274343be.jpg,781,643,822,754,High heels
+data/test/0061ef57274343be.jpg,822,648,870,755,High heels
+data/test/0061ef57274343be.jpg,294,59,403,367,Handbag
+data/test/0061ef57274343be.jpg,666,460,786,595,Handbag
+data/test/007c8f9bdb789892.jpg,68,151,580,652,High heels
+data/test/007c8f9bdb789892.jpg,394,17,828,585,High heels
+data/test/008e55cd62329b2d.jpg,64,369,258,469,Skirt
+data/test/008e55cd62329b2d.jpg,443,347,655,464,Skirt
+data/test/008fa17571511f5f.jpg,378,520,625,679,Skirt
+data/test/00921ec2cfaa0dae.jpg,347,117,431,241,Shirt
+data/test/00921ec2cfaa0dae.jpg,470,298,520,436,Shirt
+data/test/0097b6e8592ceeb5.jpg,137,342,785,695,Skirt
+data/test/0098cdb2e0236c93.jpg,298,249,377,279,Sunglasses
+data/test/0098cdb2e0236c93.jpg,229,477,458,682,Skirt
+data/test/009ceb1668852211.jpg,296,131,380,166,Sunglasses
+data/test/009ceb1668852211.jpg,219,219,448,473,Shirt
+data/test/009ceb1668852211.jpg,243,821,310,949,High heels
+data/test/009ceb1668852211.jpg,292,828,345,962,High heels
+data/test/009da5513e3e6c72.jpg,147,135,508,488,Shirt
+data/test/009da5513e3e6c72.jpg,337,223,481,576,Shirt
+data/test/00ac549c3ab01bc1.jpg,152,404,433,767,Skirt
+data/test/00b2eeb0f3bf1cfd.jpg,0,526,448,864,High heels
+data/test/00b2eeb0f3bf1cfd.jpg,33,255,953,572,High heels
+data/test/00d537861a34a655.jpg,195,933,272,999,High heels
+data/test/00d537861a34a655.jpg,586,700,679,799,High heels
+data/test/00e09596c0f1ae1f.jpg,65,59,339,614,High heels
+data/test/00e09596c0f1ae1f.jpg,341,108,632,655,High heels
+data/test/00e09596c0f1ae1f.jpg,395,27,823,291,High heels
+data/test/00e09596c0f1ae1f.jpg,494,68,974,337,High heels
+data/test/00ea6964a1a01fae.jpg,17,518,641,871,Skirt
+data/test/00efca54892071e5.jpg,280,421,360,600,High heels
+data/test/00efca54892071e5.jpg,323,611,440,835,High heels
+data/test/00f5492d1386d2ef.jpg,129,153,348,415,Shirt
+data/test/00f5492d1386d2ef.jpg,602,243,915,636,Shirt
+data/test/0107a0e53a0811eb.jpg,365,897,445,997,High heels
+data/test/0107a0e53a0811eb.jpg,446,889,481,1023,High heels
+data/test/010e4833cdb38002.jpg,326,303,445,406,Sunglasses
+data/test/011672df1e907584.jpg,139,272,180,326,Swimwear
+data/test/011672df1e907584.jpg,435,254,487,365,Swimwear
+data/test/011672df1e907584.jpg,490,295,533,348,Swimwear
+data/test/011672df1e907584.jpg,516,363,556,394,Swimwear
+data/test/011672df1e907584.jpg,894,279,944,293,Swimwear
+data/test/011672df1e907584.jpg,903,320,952,354,Swimwear
+data/test/011aef82d57cc3a1.jpg,6,579,766,1020,Shirt
+data/test/0141fc79a126442a.jpg,92,442,462,680,High heels
+data/test/0141fc79a126442a.jpg,449,366,764,561,High heels
+data/test/016680a05bae6a57.jpg,640,265,810,559,Swimwear
+data/test/0193be0df43ead17.jpg,69,455,99,534,Swimwear
+data/test/0193be0df43ead17.jpg,106,471,139,539,Swimwear
+data/test/0193be0df43ead17.jpg,601,441,622,465,Swimwear
+data/test/0193be0df43ead17.jpg,627,472,642,518,Swimwear
+data/test/0193be0df43ead17.jpg,638,457,664,523,Swimwear
+data/test/0193be0df43ead17.jpg,671,499,704,542,Swimwear
+data/test/0193be0df43ead17.jpg,768,396,851,464,Swimwear
+data/test/0193be0df43ead17.jpg,775,285,842,368,Swimwear
+data/test/01a44d58ff1000ed.jpg,797,109,935,170,Sunglasses
+data/test/01d5a328230cd142.jpg,103,389,172,513,Swimwear
+data/test/01d5a328230cd142.jpg,149,380,216,447,Swimwear
+data/test/01d5a328230cd142.jpg,270,489,302,522,Swimwear
+data/test/01d5a328230cd142.jpg,336,466,355,519,Swimwear
+data/test/01d5a328230cd142.jpg,440,453,464,464,Swimwear
+data/test/01d5a328230cd142.jpg,442,474,467,489,Swimwear
+data/test/01ee5c6549979be6.jpg,47,0,771,981,Handbag
+data/test/01fc6921a6324162.jpg,309,110,412,175,Swimwear
+data/test/01fc6921a6324162.jpg,318,247,405,274,Swimwear
+data/test/020e0407eb21c58c.jpg,0,0,981,1021,Shirt
+data/test/021f7a7552437156.jpg,111,330,767,1023,Swimwear
+data/test/0227115668de3933.jpg,439,166,663,226,Sunglasses
+data/test/0272d8d74e29f95d.jpg,253,203,375,512,Handbag
+data/test/029980cdd6957237.jpg,0,0,119,162,Swimwear
+data/test/029980cdd6957237.jpg,120,62,232,125,Swimwear
+data/test/029980cdd6957237.jpg,129,2,216,48,Swimwear
+data/test/029980cdd6957237.jpg,150,285,367,488,Swimwear
+data/test/029980cdd6957237.jpg,386,0,542,146,Swimwear
+data/test/02a638095a59b092.jpg,145,76,398,235,Sunglasses
+data/test/02be3b2e814cb494.jpg,566,218,807,291,Sunglasses
+data/test/02ce5959f76298f0.jpg,647,227,882,547,Handbag
+data/test/0319734b6a7753e7.jpg,401,267,549,324,Sunglasses
+data/test/034280cce9d3e769.jpg,0,0,1023,677,Handbag
+data/test/0346913c7d240bf3.jpg,232,24,794,747,Handbag
+data/test/0380dafcc357afd7.jpg,50,166,663,908,Handbag
+data/test/04ae3d634b32c2a8.jpg,210,36,821,973,Handbag
+data/test/04b2a0dfa4d760c8.jpg,288,836,383,1018,High heels
+data/test/04b2a0dfa4d760c8.jpg,673,822,782,954,High heels
+data/test/05036c243efb8ed3.jpg,202,476,397,759,Skirt
+data/test/0519eb937f259937.jpg,377,260,618,350,Sunglasses
+data/test/07c41e5a9f923526.jpg,87,434,242,509,Swimwear
+data/test/07c41e5a9f923526.jpg,95,378,139,448,Swimwear
+data/test/07c41e5a9f923526.jpg,285,284,446,519,Swimwear
+data/test/07c41e5a9f923526.jpg,362,695,577,1020,Swimwear
+data/test/07cde9685a0f40b0.jpg,491,551,809,684,High heels
+data/test/08cfe1b1e46f289d.jpg,230,533,445,746,Skirt
+data/test/0a23d81c54b542e2.jpg,118,225,830,780,High heels
+data/test/0a23d81c54b542e2.jpg,292,9,964,568,High heels
+data/test/0aac74b842e96d6b.jpg,64,0,620,951,Handbag
+data/test/0bcc88d18a8aa29f.jpg,0,593,279,816,Swimwear
+data/test/0bcc88d18a8aa29f.jpg,202,277,515,764,Swimwear
+data/test/0d574e297bf42ad9.jpg,309,422,478,633,Skirt
+data/test/0d574e297bf42ad9.jpg,350,495,518,674,Handbag
+data/test/0e07042241aaa995.jpg,188,186,569,645,Shirt
+data/test/0e2de2990bc6d053.jpg,167,692,420,950,Handbag
+data/test/0e9f3c01105c2ee7.jpg,537,346,767,684,Swimwear
+data/test/0ede6b927f9d1dc7.jpg,238,86,510,648,High heels
+data/test/0ede6b927f9d1dc7.jpg,545,87,818,632,High heels
+data/test/0fb923a7d7c4d696.jpg,278,206,473,711,Handbag
+data/test/106b48025a49754d.jpg,282,825,331,926,High heels
+data/test/106b48025a49754d.jpg,317,783,369,875,High heels
+data/test/11ca1a8c9e8fa44a.jpg,259,345,652,671,Skirt
+data/test/11d262b77a12102c.jpg,21,236,400,657,Shirt
+data/test/13f21edb8feb8240.jpg,0,92,32,114,Sunglasses
+data/test/13f21edb8feb8240.jpg,30,238,71,278,Sunglasses
+data/test/13f21edb8feb8240.jpg,665,278,767,325,Sunglasses
+data/test/13f21edb8feb8240.jpg,151,335,378,688,Handbag
+data/test/13f21edb8feb8240.jpg,536,344,666,791,Handbag
+data/test/140ca3fef8ed1da6.jpg,241,334,403,467,Skirt
+data/test/140ca3fef8ed1da6.jpg,535,320,692,464,Skirt
+data/test/14fe653083d809b2.jpg,0,163,682,882,Handbag
+data/test/159367f7f58869fc.jpg,174,504,360,650,Swimwear
+data/test/159367f7f58869fc.jpg,178,327,424,488,Swimwear
+data/test/159367f7f58869fc.jpg,247,701,313,772,Swimwear
+data/test/159367f7f58869fc.jpg,289,728,398,800,Swimwear
+data/test/16d6bc6dcf75ef69.jpg,0,305,100,728,Shirt
+data/test/16d6bc6dcf75ef69.jpg,103,218,268,384,Shirt
+data/test/16d6bc6dcf75ef69.jpg,287,190,884,745,Shirt
+data/test/176b8be4a87a80a1.jpg,24,180,488,634,Handbag
+data/test/176b8be4a87a80a1.jpg,577,43,794,581,Handbag
+data/test/18984282b2c87262.jpg,307,117,479,171,Sunglasses
+data/test/1981e8cacef5418f.jpg,337,145,747,588,High heels
+data/test/1981e8cacef5418f.jpg,707,39,948,661,High heels
+data/test/19f677dee7796958.jpg,83,72,706,658,High heels
+data/test/1a8781e24b3699e8.jpg,163,324,393,510,High heels
+data/test/1b378bfaf6f600fd.jpg,203,632,349,827,Swimwear
+data/test/1b378bfaf6f600fd.jpg,424,563,560,694,Swimwear
+data/test/1b68fb66822d656c.jpg,165,432,390,639,Skirt
+data/test/1b68fb66822d656c.jpg,190,674,304,753,High heels
+data/test/1b68fb66822d656c.jpg,659,464,796,630,Handbag
+data/test/1b95d8ad77ba407a.jpg,231,28,816,645,High heels
+data/test/1bbcd335f24dcd39.jpg,234,556,512,1005,Skirt
+data/test/1be17761f116b31e.jpg,8,877,173,1019,High heels
+data/test/1be17761f116b31e.jpg,188,756,308,909,High heels
+data/test/1c422386c36d7e24.jpg,224,422,439,699,Skirt
+data/test/1c5aef31a4421def.jpg,257,117,337,148,Sunglasses
+data/test/1ca1dddbe84de675.jpg,7,20,685,557,High heels
+data/test/1ca1dddbe84de675.jpg,370,31,924,604,High heels
+data/test/1cd39ea075544a20.jpg,355,163,560,345,Handbag
+data/test/1ce11fbb624f9536.jpg,26,57,552,830,Handbag
+data/test/1d0c6c44dd0d4267.jpg,265,828,377,934,High heels
+data/test/1d0c6c44dd0d4267.jpg,382,840,475,950,High heels
+data/test/1d7bb4db0f137ed2.jpg,48,301,702,904,Handbag
+data/test/1d93872030eac672.jpg,392,391,1024,649,Shirt
+data/test/1d93872030eac672.jpg,137,514,369,680,Shirt
+data/test/1e4a7d270ae2af03.jpg,313,808,394,901,High heels
+data/test/1e4a7d270ae2af03.jpg,165,459,360,651,Skirt
+data/test/1e4a7d270ae2af03.jpg,197,817,274,910,High heels
+data/test/1e4a7d270ae2af03.jpg,82,371,203,646,Handbag
+data/test/1ed34668538f02b4.jpg,119,678,201,850,Handbag
+data/test/1ed34668538f02b4.jpg,341,515,524,718,Handbag
+data/test/1ed9ab5e91d41cd0.jpg,310,207,451,396,Skirt
+data/test/1f042817391728bf.jpg,7,0,1020,696,Handbag
+data/test/1f3973a5f70c8ed0.jpg,5,245,228,618,Handbag
+data/test/1f687b09fc31b38d.jpg,287,296,500,619,Shirt
+data/test/1f687b09fc31b38d.jpg,273,549,476,756,Skirt
+data/test/1f9076e195b6ba1a.jpg,123,28,941,750,Handbag
+data/test/1fd9bedf4f5a62c4.jpg,208,2,992,394,Skirt
+data/test/205cef9e67eefbfa.jpg,26,498,649,675,Shirt
+data/test/220437b0cd1c12e8.jpg,524,276,832,437,Sunglasses
+data/test/24681f9c8f695e69.jpg,552,695,725,930,High heels
+data/test/24681f9c8f695e69.jpg,0,518,76,593,High heels
+data/test/24681f9c8f695e69.jpg,96,509,160,567,High heels
+data/test/24681f9c8f695e69.jpg,158,686,227,785,High heels
+data/test/24681f9c8f695e69.jpg,233,654,336,738,High heels
+data/test/253fe08b669e9211.jpg,285,5,860,605,Handbag
+data/test/25bb1a479621cb43.jpg,192,540,467,680,Sunglasses
+data/test/25bb1a479621cb43.jpg,62,401,739,1022,Swimwear
+data/test/25c8479e385dec40.jpg,76,259,415,602,Swimwear
+data/test/25c8479e385dec40.jpg,110,828,461,990,Swimwear
+data/test/26580d44967e4f90.jpg,49,679,304,794,Swimwear
+data/test/26580d44967e4f90.jpg,93,353,356,586,Swimwear
+data/test/26b9c9263d2773a3.jpg,122,715,563,966,Skirt
+data/test/26f48d3a7e50c16e.jpg,202,567,224,579,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,309,609,382,626,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,445,570,469,583,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,547,509,597,531,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,734,586,800,621,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,986,561,1011,571,Sunglasses
+data/test/26f48d3a7e50c16e.jpg,988,556,1008,579,Sunglasses
+data/test/2884207fc65113a0.jpg,174,290,579,852,Shirt
+data/test/28996259028c5cbb.jpg,204,267,766,642,Shirt
+data/test/28c39e7e0fb0665b.jpg,309,178,438,382,Swimwear
+data/test/294a15e30a50e8de.jpg,349,239,436,317,Swimwear
+data/test/294a15e30a50e8de.jpg,446,478,528,521,Swimwear
+data/test/294a15e30a50e8de.jpg,517,314,591,360,Swimwear
+data/test/29717380a8e932cf.jpg,344,265,847,682,Shirt
+data/test/2982c6bc4a3cc0a9.jpg,235,552,450,655,Swimwear
+data/test/2982c6bc4a3cc0a9.jpg,251,200,451,430,Swimwear
+data/test/2abc6948c7612048.jpg,0,560,640,1003,Shirt
+data/test/2b06d92e511aa658.jpg,14,97,531,566,High heels
+data/test/2b06d92e511aa658.jpg,440,0,711,486,High heels
+data/test/2b12b4b62f29852a.jpg,478,211,878,657,Shirt
+data/test/2b3dd6c66b2b2220.jpg,194,317,291,637,Shirt
+data/test/2b3dd6c66b2b2220.jpg,321,227,420,372,Shirt
+data/test/2b3dd6c66b2b2220.jpg,390,223,754,603,Shirt
+data/test/2b4423e3be3a0519.jpg,339,399,528,545,Swimwear
+data/test/2b4423e3be3a0519.jpg,360,192,511,289,Swimwear
+data/test/2b63b77f96c4641a.jpg,775,441,1023,682,Handbag
+data/test/2c74ff4de9c77002.jpg,163,371,621,993,Shirt
+data/test/2d48cfcefdeebb0d.jpg,416,507,632,679,Handbag
+data/test/2d817bb5b3e69c30.jpg,305,333,783,597,High heels
+data/test/2d817bb5b3e69c30.jpg,616,483,835,567,High heels
+data/test/2f7e8d2788de77b9.jpg,539,316,708,379,Sunglasses
+data/test/2fe76af75f696877.jpg,240,323,455,569,Skirt
+data/test/3017e7ce26298b13.jpg,422,110,457,205,Sunglasses
+data/test/3126bdab1dacbcda.jpg,130,735,500,1023,Skirt
+data/test/31c2d4eb9f8988f1.jpg,373,400,457,460,Swimwear
+data/test/31edfccaecca1ba3.jpg,9,1,1024,768,Shirt
+data/test/33ab762fa31fa0ed.jpg,221,128,276,166,Sunglasses
+data/test/3400fa39c15fc6bc.jpg,854,313,1022,446,Sunglasses
+data/test/3414020c490eede6.jpg,467,200,675,337,Sunglasses
+data/test/3414020c490eede6.jpg,736,445,929,530,Sunglasses
+data/test/34b3444a337ac5c7.jpg,381,166,633,290,Sunglasses
+data/test/34b3444a337ac5c7.jpg,978,281,1023,313,Sunglasses
+data/test/350cd236d17b1740.jpg,74,410,452,561,High heels
+data/test/350cd236d17b1740.jpg,430,500,785,649,High heels
+data/test/35eb20a9d4a84644.jpg,122,27,680,668,Handbag
+data/test/373d8b84c3c3ec8c.jpg,315,356,514,681,Shirt
+data/test/384c0c6863b10d3e.jpg,176,89,536,1023,Swimwear
+data/test/393861eae8207105.jpg,515,553,665,639,Skirt
+data/test/39868d14defb07a5.jpg,591,200,767,443,Shirt
+data/test/3a5e486c4a06f4e0.jpg,126,0,751,138,Sunglasses
+data/test/3a8b0f4c5a8f0c33.jpg,227,309,266,361,Swimwear
+data/test/3a8b0f4c5a8f0c33.jpg,548,391,598,421,Swimwear
+data/test/3a8b0f4c5a8f0c33.jpg,687,284,721,324,Swimwear
+data/test/3ab29206815f5435.jpg,73,752,295,961,High heels
+data/test/3ab29206815f5435.jpg,505,759,694,918,High heels
+data/test/3d40a54057e8a950.jpg,404,51,607,375,Handbag
+data/test/3e38cbaa762b3746.jpg,0,714,73,785,High heels
+data/test/3e38cbaa762b3746.jpg,0,556,132,707,High heels
+data/test/3e38cbaa762b3746.jpg,214,611,263,656,High heels
+data/test/3e38cbaa762b3746.jpg,260,632,271,647,High heels
+data/test/3e38cbaa762b3746.jpg,312,515,383,625,High heels
+data/test/3e38cbaa762b3746.jpg,376,910,447,1008,High heels
+data/test/3e38cbaa762b3746.jpg,436,854,493,950,High heels
+data/test/3e38cbaa762b3746.jpg,561,464,617,497,High heels
+data/test/3f4e9dad8a184977.jpg,474,463,508,527,High heels
+data/test/3f4e9dad8a184977.jpg,490,492,544,552,High heels
+data/test/3f5dc907bef30088.jpg,44,0,613,956,Handbag
+data/test/3fffbb87bc1242a0.jpg,619,377,660,417,Swimwear
+data/test/4059e0189b9f9471.jpg,51,0,864,711,Handbag
+data/test/405c0c13585ad23e.jpg,105,344,605,841,Skirt
+data/test/40ff196cdca93c49.jpg,405,45,634,147,Sunglasses
+data/test/431193ae693c5bac.jpg,283,158,716,613,High heels
+data/test/43285f9adffc8653.jpg,85,300,382,704,Shirt
+data/test/435e56a4e8bcce86.jpg,558,188,802,301,Sunglasses
+data/test/442d80557dec633c.jpg,252,439,526,775,Skirt
+data/test/445f39dbc42ffefd.jpg,140,371,373,766,Skirt
+data/test/445f39dbc42ffefd.jpg,326,827,563,999,Handbag
+data/test/450f10b252ebb09b.jpg,213,814,379,965,High heels
+data/test/450f10b252ebb09b.jpg,232,418,424,758,Skirt
+data/test/45181671f01a458b.jpg,35,720,288,935,High heels
+data/test/45181671f01a458b.jpg,249,712,393,898,High heels
+data/test/471f2e016e230d9e.jpg,234,535,604,855,High heels
+data/test/471f2e016e230d9e.jpg,573,503,721,779,High heels
+data/test/473eb0edee19c69c.jpg,71,351,639,963,High heels
+data/test/47dcdad61bd38513.jpg,336,146,400,279,Swimwear
+data/test/47dcdad61bd38513.jpg,574,242,638,271,Swimwear
+data/test/47dcdad61bd38513.jpg,576,141,642,238,Swimwear
+data/test/4859b9ae2c7d79cd.jpg,0,0,1023,677,Handbag
+data/test/4a139ea22ce16b63.jpg,404,777,572,903,Handbag
+data/test/4a24d4a3efdba433.jpg,286,216,373,408,Handbag
+data/test/4a24d4a3efdba433.jpg,772,234,809,360,Handbag
+data/test/4b64f8d32f911885.jpg,6,324,83,344,Sunglasses
+data/test/4b64f8d32f911885.jpg,193,356,288,404,Sunglasses
+data/test/4b64f8d32f911885.jpg,265,244,353,272,Sunglasses
+data/test/4b64f8d32f911885.jpg,785,272,841,364,Sunglasses
+data/test/4b64f8d32f911885.jpg,960,425,984,444,Sunglasses
+data/test/4b65b546f363fa07.jpg,0,209,994,619,High heels
+data/test/4b65b546f363fa07.jpg,512,246,867,535,High heels
+data/test/4bfa8e18b6a71ae6.jpg,341,415,568,670,High heels
+data/test/4bfa8e18b6a71ae6.jpg,643,430,797,645,High heels
+data/test/4c1197a91bbb7d3c.jpg,132,788,549,1023,Skirt
+data/test/4d1009091f807c08.jpg,224,296,514,838,Shirt
+data/test/4dab55a0ff77587e.jpg,193,294,454,546,Swimwear
+data/test/4dab55a0ff77587e.jpg,219,730,488,872,Swimwear
+data/test/4e09145399a35496.jpg,135,120,572,970,Handbag
+data/test/4e43471ec1948519.jpg,204,295,404,679,Handbag
+data/test/4f5055dfbe248f81.jpg,0,778,211,921,Swimwear
+data/test/4f5055dfbe248f81.jpg,32,389,236,593,Swimwear
+data/test/4f5055dfbe248f81.jpg,340,468,427,604,Swimwear
+data/test/4f5055dfbe248f81.jpg,398,765,641,914,Swimwear
+data/test/4f5055dfbe248f81.jpg,413,405,586,521,Swimwear
+data/test/4f5055dfbe248f81.jpg,417,149,602,408,Swimwear
+data/test/4f64de5aab1a42c5.jpg,245,472,382,626,Skirt
+data/test/4f64de5aab1a42c5.jpg,49,378,222,606,Handbag
+data/test/50256e5e99219210.jpg,0,34,605,931,Handbag
+data/test/50304273fc9d9c89.jpg,314,28,907,546,High heels
+data/test/50a733aff0f208fd.jpg,266,32,852,636,High heels
+data/test/514a228f1eaf14e6.jpg,17,201,272,622,Shirt
+data/test/514a228f1eaf14e6.jpg,376,212,500,489,Shirt
+data/test/51a07cc1c18c7615.jpg,163,312,371,496,Skirt
+data/test/51a6554865a15ea5.jpg,104,43,937,980,Handbag
+data/test/51c5b78da5e1307c.jpg,416,327,567,566,Skirt
+data/test/5217eb4f9bc6c41e.jpg,0,0,354,803,High heels
+data/test/5217eb4f9bc6c41e.jpg,358,0,764,789,High heels
+data/test/52799f0d26def1e9.jpg,0,0,1023,677,Handbag
+data/test/52d5024c2676a9fe.jpg,83,711,112,723,Sunglasses
+data/test/52d5024c2676a9fe.jpg,121,684,140,697,Sunglasses
+data/test/52d5024c2676a9fe.jpg,130,958,184,980,Sunglasses
+data/test/52d5024c2676a9fe.jpg,153,748,196,777,Sunglasses
+data/test/52d5024c2676a9fe.jpg,211,714,231,724,Sunglasses
+data/test/52d5024c2676a9fe.jpg,302,654,321,663,Sunglasses
+data/test/52d5024c2676a9fe.jpg,369,533,386,542,Sunglasses
+data/test/52d5024c2676a9fe.jpg,375,743,401,750,Sunglasses
+data/test/52d5024c2676a9fe.jpg,419,724,461,735,Sunglasses
+data/test/52d5024c2676a9fe.jpg,426,725,459,730,Sunglasses
+data/test/52d5024c2676a9fe.jpg,559,915,604,935,Sunglasses
+data/test/52d5024c2676a9fe.jpg,603,533,629,543,Sunglasses
+data/test/5344cc8b5ac4a7a0.jpg,560,332,816,619,Swimwear
+data/test/53ad598881515bb7.jpg,177,310,568,947,Shirt
+data/test/53dcfcad84a82660.jpg,552,205,699,390,Handbag
+data/test/5429d72e5afd523c.jpg,9,712,155,861,High heels
+data/test/5429d72e5afd523c.jpg,302,686,456,843,High heels
+data/test/55f21d0bdc8aa9eb.jpg,160,137,356,219,Sunglasses
+data/test/56b511d9a313c9a1.jpg,412,325,782,528,Sunglasses
+data/test/56b511d9a313c9a1.jpg,56,423,370,595,Swimwear
+data/test/56b511d9a313c9a1.jpg,289,487,540,766,Swimwear
+data/test/56b511d9a313c9a1.jpg,433,81,456,113,Swimwear
+data/test/56b511d9a313c9a1.jpg,824,167,858,205,Swimwear
+data/test/56c7db340c5e2c19.jpg,156,295,188,334,Swimwear
+data/test/56c7db340c5e2c19.jpg,438,417,515,474,Swimwear
+data/test/56c7db340c5e2c19.jpg,592,318,657,408,Swimwear
+data/test/56e8a6a7139d3922.jpg,290,135,455,187,Sunglasses
+data/test/56e8a6a7139d3922.jpg,143,757,547,1023,Skirt
+data/test/577c60390028df8c.jpg,155,437,276,573,Skirt
+data/test/590170a9cbc34007.jpg,721,465,785,505,Swimwear
+data/test/59097c695ec0e6fa.jpg,195,288,247,338,Swimwear
+data/test/59097c695ec0e6fa.jpg,207,359,269,373,Swimwear
+data/test/59097c695ec0e6fa.jpg,478,288,526,342,Swimwear
+data/test/59097c695ec0e6fa.jpg,479,359,526,372,Swimwear
+data/test/59097c695ec0e6fa.jpg,808,333,862,365,Swimwear
+data/test/59ab48b2aaf198cc.jpg,158,515,475,1023,Shirt
+data/test/5a5860190fa2a5ef.jpg,372,324,508,445,Handbag
+data/test/5ab8f52846bcd245.jpg,5,432,139,639,Handbag
+data/test/5af0a2f046d4f894.jpg,380,96,508,136,Sunglasses
+data/test/5b5faaef9b330da0.jpg,186,795,261,901,High heels
+data/test/5b5faaef9b330da0.jpg,278,805,331,918,High heels
+data/test/5b5faaef9b330da0.jpg,123,415,293,608,Handbag
+data/test/5b9eed0bb74fe430.jpg,252,596,526,770,Skirt
+data/test/5bafff1d7b5bbb9f.jpg,508,493,606,542,Swimwear
+data/test/5bafff1d7b5bbb9f.jpg,680,603,827,673,Swimwear
+data/test/5bafff1d7b5bbb9f.jpg,698,271,824,492,Swimwear
+data/test/5bafff1d7b5bbb9f.jpg,945,352,972,385,Swimwear
+data/test/5c019e7f091acaf6.jpg,237,523,447,1011,High heels
+data/test/5c019e7f091acaf6.jpg,316,509,480,1023,High heels
+data/test/5c11944a6f0481c0.jpg,225,395,1023,682,Shirt
+data/test/5c2e406971260bd1.jpg,101,67,832,996,Handbag
+data/test/5cb9323aac9ded0b.jpg,77,58,944,959,Handbag
+data/test/5cb9f4424d207f2a.jpg,455,349,639,465,Swimwear
+data/test/5d244f57211ddbc7.jpg,382,246,588,385,Sunglasses
+data/test/5d3f60f3277482d7.jpg,540,244,681,391,Skirt
+data/test/5da490a5a1c3a236.jpg,340,683,413,812,High heels
+data/test/5da490a5a1c3a236.jpg,405,813,509,926,High heels
+data/test/5e0d2642c2993079.jpg,259,184,775,711,Skirt
+data/test/5e98d4c8c73735cb.jpg,83,346,533,684,High heels
+data/test/5e98d4c8c73735cb.jpg,110,419,261,568,High heels
+data/test/5ee1f7f3d6793993.jpg,19,257,496,662,Shirt
+data/test/5ee1f7f3d6793993.jpg,428,234,646,643,Shirt
+data/test/5ee1f7f3d6793993.jpg,704,285,848,673,Shirt
+data/test/5f19995bc688f70a.jpg,749,271,864,367,Shirt
+data/test/5f19995bc688f70a.jpg,873,370,971,419,Shirt
+data/test/5f19995bc688f70a.jpg,983,389,1023,424,Shirt
+data/test/5f61d0b6bf846646.jpg,662,89,779,155,Sunglasses
+data/test/5f83757c6a710352.jpg,190,221,447,461,Swimwear
+data/test/5f83757c6a710352.jpg,295,545,523,793,Swimwear
+data/test/600014a52e215065.jpg,14,756,157,1023,Handbag
+data/test/603930e1b65bf0b8.jpg,0,286,69,384,Skirt
+data/test/603930e1b65bf0b8.jpg,523,352,729,575,Skirt
+data/test/6072475bd2239895.jpg,0,264,40,439,Swimwear
+data/test/6072475bd2239895.jpg,214,311,483,536,Swimwear
+data/test/6072475bd2239895.jpg,233,759,505,899,Swimwear
+data/test/6072475bd2239895.jpg,481,317,549,371,Swimwear
+data/test/6072475bd2239895.jpg,484,434,554,488,Swimwear
+data/test/6072475bd2239895.jpg,542,241,633,352,Swimwear
+data/test/6072475bd2239895.jpg,561,410,600,485,Swimwear
+data/test/60f0f85c152f3bef.jpg,731,313,1016,394,Sunglasses
+data/test/616e51b5b2900b09.jpg,181,557,507,900,Swimwear
+data/test/62a8365780d3b72b.jpg,475,106,837,568,Shirt
+data/test/62cd968ffddf47bc.jpg,455,300,648,547,Swimwear
+data/test/630260226ac3485a.jpg,115,120,155,138,Sunglasses
+data/test/6369b8e927aa46fe.jpg,560,183,1005,828,Shirt
+data/test/6369b8e927aa46fe.jpg,243,333,389,447,Shirt
+data/test/636baeba9a21ff25.jpg,31,677,172,861,High heels
+data/test/636baeba9a21ff25.jpg,170,615,252,759,High heels
+data/test/636baeba9a21ff25.jpg,309,543,440,734,High heels
+data/test/636baeba9a21ff25.jpg,488,593,602,783,High heels
+data/test/63b003c182171e01.jpg,289,213,510,307,Sunglasses
+data/test/655e51bbd0e11e2a.jpg,33,723,469,1023,Skirt
+data/test/65b53fd0fcb663a2.jpg,340,473,457,543,Swimwear
+data/test/666e6ee49e53750d.jpg,200,504,533,669,Skirt
+data/test/66a7e31e0e7d1da7.jpg,124,40,992,373,Sunglasses
+data/test/6707b71c315e26f1.jpg,316,570,514,829,Skirt
+data/test/6707d6e3353a1568.jpg,30,182,1000,637,Shirt
+data/test/6707d6e3353a1568.jpg,32,399,176,672,Shirt
+data/test/6707d6e3353a1568.jpg,707,508,961,767,Shirt
+data/test/676bbc846c1bbfda.jpg,525,288,689,386,Sunglasses
+data/test/67b327b302dfbdc0.jpg,0,449,139,637,Handbag
+data/test/67e3a4f36054ff42.jpg,101,645,131,658,Sunglasses
+data/test/67e3a4f36054ff42.jpg,185,631,216,647,Sunglasses
+data/test/67f614e298e32477.jpg,369,433,493,588,Swimwear
+data/test/68083c44541d210f.jpg,556,396,712,529,Skirt
+data/test/692b01595621d9e9.jpg,71,624,360,769,Swimwear
+data/test/692b01595621d9e9.jpg,87,263,351,535,Swimwear
+data/test/692b01595621d9e9.jpg,384,649,689,769,Swimwear
+data/test/692b01595621d9e9.jpg,406,242,688,545,Swimwear
+data/test/692b01595621d9e9.jpg,666,350,954,769,Swimwear
+data/test/693bb3359c2619e9.jpg,34,0,1022,476,Sunglasses
+data/test/6996d0e278641502.jpg,652,168,774,202,Sunglasses
+data/test/6996d0e278641502.jpg,501,258,897,632,Shirt
+data/test/69e98307bc08c9d2.jpg,165,624,420,1023,Shirt
+data/test/6aa69ea1101db197.jpg,179,469,446,899,Skirt
+data/test/6ab78db939088ffe.jpg,382,77,556,176,Sunglasses
+data/test/6ab78db939088ffe.jpg,309,251,639,574,Swimwear
+data/test/6bcaf99a7177590f.jpg,67,277,574,917,Shirt
+data/test/6bdb513da1c93dd9.jpg,47,543,134,707,Handbag
+data/test/6cc7b8086f651906.jpg,156,812,273,861,High heels
+data/test/6ce57d30dba7d1c3.jpg,423,144,519,217,Sunglasses
+data/test/6ce57d30dba7d1c3.jpg,451,296,702,488,Swimwear
+data/test/6d17159c01751416.jpg,550,136,671,172,Sunglasses
+data/test/6d6cfbe1d7d84fb8.jpg,33,444,213,595,Handbag
+data/test/6e010802c2fdf525.jpg,63,789,219,846,Sunglasses
+data/test/6eb21dc755533d0d.jpg,32,147,61,158,Sunglasses
+data/test/6eb21dc755533d0d.jpg,186,121,337,163,Sunglasses
+data/test/6fa2c7942da1bea6.jpg,144,248,285,302,Sunglasses
+data/test/709275b8a7cf2311.jpg,165,155,277,195,Sunglasses
+data/test/709275b8a7cf2311.jpg,480,183,614,231,Sunglasses
+data/test/709275b8a7cf2311.jpg,77,263,397,787,Shirt
+data/test/70a9b0ed7f18c22b.jpg,501,367,707,792,Skirt
+data/test/716254ed15f084fb.jpg,274,430,766,993,Shirt
+data/test/71aa046149b93550.jpg,0,325,60,681,Shirt
+data/test/71aa046149b93550.jpg,447,213,669,680,Shirt
+data/test/71b1405f046196a3.jpg,311,897,354,966,High heels
+data/test/71b1405f046196a3.jpg,363,899,416,959,High heels
+data/test/726ce2e2e1281446.jpg,624,238,771,485,Shirt
+data/test/732ad869811c18ab.jpg,439,272,880,720,Shirt
+data/test/732ad869811c18ab.jpg,282,360,337,506,Shirt
+data/test/738455b6bf27d09a.jpg,465,447,577,501,Swimwear
+data/test/73a6e10736a9695e.jpg,59,97,603,441,High heels
+data/test/73a6e10736a9695e.jpg,131,339,1022,1022,High heels
+data/test/74ad09056d9b9332.jpg,418,369,575,690,Handbag
+data/test/74e8aea8a3b70f5f.jpg,176,22,806,667,Handbag
+data/test/7557c5f304b463c3.jpg,241,158,398,220,Sunglasses
+data/test/75e31b1175f6fdb9.jpg,304,288,750,814,Shirt
+data/test/765e2d6c5ba442cc.jpg,119,417,274,699,Skirt
+data/test/7864bccf8ac8b10f.jpg,247,302,531,392,Sunglasses
+data/test/7864bccf8ac8b10f.jpg,504,312,743,419,Sunglasses
+data/test/786b072fbaafcfe0.jpg,108,744,309,803,Swimwear
+data/test/786b072fbaafcfe0.jpg,109,491,299,673,Swimwear
+data/test/7879f42ab3bc3d76.jpg,194,362,483,707,Skirt
+data/test/78ff6770ddd43503.jpg,250,459,380,593,Swimwear
+data/test/78ff6770ddd43503.jpg,290,633,434,767,Swimwear
+data/test/78ff6770ddd43503.jpg,500,180,624,387,Swimwear
+data/test/78ff6770ddd43503.jpg,624,225,746,369,Swimwear
+data/test/7a8d97acc4cee54a.jpg,444,338,584,407,Sunglasses
+data/test/7abf7464b86f763c.jpg,230,787,307,868,High heels
+data/test/7abf7464b86f763c.jpg,436,812,526,903,High heels
+data/test/7b9935dfa3ac2724.jpg,255,422,591,975,High heels
+data/test/7bc3203740c70b06.jpg,616,201,976,556,Shirt
+data/test/7bc3203740c70b06.jpg,366,213,671,574,Shirt
+data/test/7c450d959a12bbaa.jpg,307,118,419,262,Swimwear
+data/test/7c450d959a12bbaa.jpg,327,300,396,354,Swimwear
+data/test/7c931c7f6deabed2.jpg,680,384,725,419,Swimwear
+data/test/7cf698382c574866.jpg,495,438,839,701,Skirt
+data/test/7cf7d8141a3bc8a2.jpg,377,386,565,593,Skirt
+data/test/7cf7d8141a3bc8a2.jpg,553,407,676,541,Skirt
+data/test/7ec783641ffbb8c0.jpg,0,0,1022,1022,Shirt
+data/test/7ff4c535da7c708e.jpg,300,265,505,437,Shirt
+data/test/80c8da9f3bdd0733.jpg,191,344,223,357,Sunglasses
+data/test/80c8da9f3bdd0733.jpg,384,344,403,357,Sunglasses
+data/test/80c8da9f3bdd0733.jpg,722,336,757,348,Sunglasses
+data/test/80cf13db2db4c6d9.jpg,480,309,616,344,Sunglasses
+data/test/84a8e73787f3b107.jpg,17,110,767,727,Handbag
+data/test/85ff4b6628e00dfe.jpg,0,0,1023,687,Shirt
+data/test/8641ebd905b45aa6.jpg,528,115,924,710,Shirt
+data/test/889d7f2816daeec3.jpg,238,145,610,570,Handbag
+data/test/8a9f1a012a986472.jpg,25,102,160,347,Handbag
+data/test/8a9f1a012a986472.jpg,179,99,332,337,Handbag
+data/test/8a9f1a012a986472.jpg,184,337,329,510,Handbag
+data/test/8a9f1a012a986472.jpg,199,332,323,543,Handbag
+data/test/8a9f1a012a986472.jpg,350,585,449,766,Handbag
+data/test/8a9f1a012a986472.jpg,545,315,689,526,Handbag
+data/test/8a9f1a012a986472.jpg,716,76,899,316,Handbag
+data/test/8a9f1a012a986472.jpg,731,323,819,513,Handbag
+data/test/8cef18e3ba4c1165.jpg,223,147,288,183,Sunglasses
+data/test/8cef18e3ba4c1165.jpg,91,375,317,695,Skirt
+data/test/8cef18e3ba4c1165.jpg,168,786,248,868,High heels
+data/test/8cef18e3ba4c1165.jpg,238,791,330,899,High heels
+data/test/8cef18e3ba4c1165.jpg,86,519,261,706,Handbag
+data/test/8e1b685969cdc4fe.jpg,384,323,469,519,Handbag
+data/test/8e1b685969cdc4fe.jpg,582,362,748,593,Handbag
+data/test/8e85fab880bfcfe5.jpg,421,171,722,345,Sunglasses
+data/test/8e85fab880bfcfe5.jpg,216,350,478,680,Swimwear
+data/test/8fc41887afa8ba8c.jpg,298,55,588,244,Handbag
+data/test/8fde8cb92bf7dd50.jpg,231,555,566,760,High heels
+data/test/90d932130083ee6e.jpg,259,181,700,536,High heels
+data/test/911cb33c0ee7e010.jpg,456,547,599,678,Skirt
+data/test/913be7c41575b03a.jpg,296,576,334,695,Sunglasses
+data/test/913be7c41575b03a.jpg,688,288,863,368,Sunglasses
+data/test/91fd7c6c19cbcd49.jpg,53,56,498,888,High heels
+data/test/9260472adaa38357.jpg,170,448,336,551,Swimwear
+data/test/9260472adaa38357.jpg,214,269,355,389,Swimwear
+data/test/92d887337c49fc14.jpg,286,817,399,990,High heels
+data/test/92d887337c49fc14.jpg,467,728,627,837,High heels
+data/test/94d63692ff991025.jpg,0,396,304,737,Swimwear
+data/test/95171a7c55726a31.jpg,410,384,685,828,Skirt
+data/test/95171a7c55726a31.jpg,284,202,531,643,Handbag
+data/test/95ef51d4bf14369c.jpg,227,316,280,361,Skirt
+data/test/95ef51d4bf14369c.jpg,633,489,773,579,Skirt
+data/test/96a423e63a84a631.jpg,17,108,717,994,Handbag
+data/test/96d9f0334e1c4a7d.jpg,403,146,536,196,Sunglasses
+data/test/9774c8b568fd6fce.jpg,263,419,298,468,Shirt
+data/test/9774c8b568fd6fce.jpg,335,429,433,495,Shirt
+data/test/9774c8b568fd6fce.jpg,427,440,478,506,Shirt
+data/test/9774c8b568fd6fce.jpg,453,444,496,502,Shirt
+data/test/9774c8b568fd6fce.jpg,520,267,797,662,Shirt
+data/test/9774c8b568fd6fce.jpg,734,247,1023,657,Shirt
+data/test/97d552d4c1132df5.jpg,292,728,538,935,High heels
+data/test/98674c27a6d52754.jpg,426,438,520,510,Swimwear
+data/test/98674c27a6d52754.jpg,426,289,531,435,Swimwear
+data/test/98ec5811473b04e8.jpg,206,686,498,935,Skirt
+data/test/990d55a16e1c649d.jpg,30,455,538,698,Sunglasses
+data/test/99127fe67881286e.jpg,313,409,431,482,Swimwear
+data/test/99127fe67881286e.jpg,316,235,444,338,Swimwear
+data/test/99e41d1e40cc3b2c.jpg,321,545,670,788,Skirt
+data/test/9af2bd7284558c2c.jpg,19,357,82,396,Shirt
+data/test/9af2bd7284558c2c.jpg,180,344,264,385,Shirt
+data/test/9af2bd7284558c2c.jpg,286,394,535,720,Shirt
+data/test/9af2bd7284558c2c.jpg,444,310,506,397,Shirt
+data/test/9af2bd7284558c2c.jpg,556,253,711,717,Shirt
+data/test/9b4362381433dd8e.jpg,403,153,521,228,Sunglasses
+data/test/9b4362381433dd8e.jpg,42,497,438,1008,Skirt
+data/test/9b9b20a0074fbd3c.jpg,136,55,758,628,High heels
+data/test/9b9b20a0074fbd3c.jpg,247,193,991,921,High heels
+data/test/9ba43702d4645429.jpg,157,650,294,853,Handbag
+data/test/9c4320f1b8924694.jpg,61,362,141,393,Sunglasses
+data/test/9c4320f1b8924694.jpg,156,359,241,396,Sunglasses
+data/test/9d37baa88cae62c9.jpg,364,685,514,874,High heels
+data/test/9d37baa88cae62c9.jpg,464,738,556,931,High heels
+data/test/9d6b51fb1ebccc39.jpg,97,498,603,679,Swimwear
+data/test/9dd5c9009420b1a5.jpg,346,219,673,474,Shirt
+data/test/9dd5c9009420b1a5.jpg,700,430,977,616,Shirt
+data/test/9ee7d381f544d115.jpg,28,233,389,802,Shirt
+data/test/9f5bbdcf1ba90268.jpg,519,135,570,153,Sunglasses
+data/test/9f6e49e034e2ac76.jpg,72,452,956,684,Shirt
+data/test/a194a90fad1cd28d.jpg,268,171,767,580,Shirt
+data/test/a1a0754997e4e0cb.jpg,629,469,838,670,Skirt
+data/test/a2c37cf7a3ba8c36.jpg,120,53,885,637,Handbag
+data/test/a4213b25874eda0e.jpg,325,244,464,455,Swimwear
+data/test/a4213b25874eda0e.jpg,385,416,565,611,Swimwear
+data/test/a428da4073948ef2.jpg,108,208,907,849,High heels
+data/test/a42c6bd86def1c84.jpg,522,356,750,540,Skirt
+data/test/a4aa7b2e13c5fbbb.jpg,490,382,544,406,Sunglasses
+data/test/a4aa7b2e13c5fbbb.jpg,551,412,601,432,Sunglasses
+data/test/a5cdfd71357fd2f3.jpg,57,348,119,419,Swimwear
+data/test/a5cdfd71357fd2f3.jpg,286,387,448,453,Swimwear
+data/test/a5cdfd71357fd2f3.jpg,299,554,463,635,Swimwear
+data/test/a5cdfd71357fd2f3.jpg,489,343,529,397,Swimwear
+data/test/a5cdfd71357fd2f3.jpg,552,386,573,431,Swimwear
+data/test/a66411731784c933.jpg,325,390,456,515,Shirt
+data/test/a66411731784c933.jpg,357,203,750,766,Shirt
+data/test/a7777bf7b0662afd.jpg,0,0,1022,472,Handbag
+data/test/a8dc866c69b26e2c.jpg,456,223,763,349,Sunglasses
+data/test/a93c90aed4edd951.jpg,322,807,595,1009,High heels
+data/test/a93c90aed4edd951.jpg,302,551,364,999,High heels
+data/test/a9d638f4f1061b08.jpg,69,669,665,1022,Shirt
+data/test/a9d638f4f1061b08.jpg,116,432,617,686,Shirt
+data/test/aa4dab54f40ebb95.jpg,414,330,618,434,Skirt
+data/test/ac6fc961ebcb4955.jpg,448,405,527,474,Swimwear
+data/test/acd9b324bd1e93ad.jpg,581,474,743,682,Handbag
+data/test/ad498209eed5eb7f.jpg,183,34,827,665,Handbag
+data/test/ae2a26684c971d00.jpg,736,91,849,420,Sunglasses
+data/test/af03246f7a1e93ca.jpg,0,558,610,1022,Shirt
+data/test/af3d2ddb7e1d2764.jpg,727,513,914,650,Skirt
+data/test/afd5724f192e5155.jpg,244,376,366,492,Handbag
+data/test/afe24678d02876d7.jpg,127,272,254,386,Swimwear
+data/test/afe24678d02876d7.jpg,133,475,252,549,Swimwear
+data/test/afe24678d02876d7.jpg,253,219,379,371,Swimwear
+data/test/afe24678d02876d7.jpg,257,467,413,568,Swimwear
+data/test/afe24678d02876d7.jpg,471,187,661,349,Swimwear
+data/test/afe24678d02876d7.jpg,512,465,666,560,Swimwear
+data/test/afe24678d02876d7.jpg,894,493,946,556,Swimwear
+data/test/afe24678d02876d7.jpg,913,266,961,391,Swimwear
+data/test/afe24678d02876d7.jpg,960,508,1023,566,Swimwear
+data/test/afe24678d02876d7.jpg,964,260,1023,394,Swimwear
+data/test/b13d6aee92c19572.jpg,409,548,485,610,High heels
+data/test/b13d6aee92c19572.jpg,583,618,647,675,High heels
+data/test/b1aed16c30027152.jpg,339,154,463,218,Sunglasses
+data/test/b262a8c24cd65a27.jpg,320,485,506,624,High heels
+data/test/b262a8c24cd65a27.jpg,606,503,791,667,High heels
+data/test/b2986387f3f56248.jpg,110,248,641,860,Shirt
+data/test/b5a47e3394c7afaa.jpg,178,528,292,676,Handbag
+data/test/b64ea4cf4955f70b.jpg,195,525,446,707,Skirt
+data/test/b72132484eb697ab.jpg,247,483,444,714,Skirt
+data/test/b72abc8d01fee206.jpg,306,782,365,856,High heels
+data/test/b72abc8d01fee206.jpg,353,802,426,879,High heels
+data/test/b7791d50c1328084.jpg,269,348,404,622,Handbag
+data/test/b7791d50c1328084.jpg,798,140,952,478,Handbag
+data/test/b7ea41568658a8dc.jpg,121,340,238,372,Sunglasses
+data/test/b7ea41568658a8dc.jpg,328,331,352,383,Sunglasses
+data/test/b89662b8c72ab885.jpg,85,455,149,487,Swimwear
+data/test/b89662b8c72ab885.jpg,547,321,648,444,Swimwear
+data/test/b89662b8c72ab885.jpg,632,376,828,567,Swimwear
+data/test/b8d14f8a56607c2e.jpg,252,149,488,233,Sunglasses
+data/test/b972a34a84df5d45.jpg,585,562,742,627,Swimwear
+data/test/b972a34a84df5d45.jpg,624,391,739,495,Swimwear
+data/test/ba274c937f50bb7e.jpg,181,512,330,765,Shirt
+data/test/ba8e9909e86a22b9.jpg,496,300,1020,682,Shirt
+data/test/bae73d19e89d7073.jpg,248,95,397,181,Sunglasses
+data/test/bb3e19cbdf86f0cd.jpg,760,355,956,676,Handbag
+data/test/bbeef067d7d8c3cf.jpg,248,486,423,739,Skirt
+data/test/bcb2d268b370dbaf.jpg,55,664,124,746,Swimwear
+data/test/bcb2d268b370dbaf.jpg,140,667,220,752,Swimwear
+data/test/bcb2d268b370dbaf.jpg,556,499,602,518,Swimwear
+data/test/bcb2d268b370dbaf.jpg,650,435,690,481,Swimwear
+data/test/bcef1c58e5eb57b2.jpg,204,362,409,634,Handbag
+data/test/bcf375d19f81ac85.jpg,131,479,666,1021,Shirt
+data/test/be34123f0f315ea6.jpg,208,870,289,984,High heels
+data/test/be34123f0f315ea6.jpg,80,391,379,835,Skirt
+data/test/be34123f0f315ea6.jpg,332,865,409,985,High heels
+data/test/bf8dd36465c1aae5.jpg,406,172,528,218,Sunglasses
+data/test/bf8dd36465c1aae5.jpg,619,129,645,140,Sunglasses
+data/test/bf8dd36465c1aae5.jpg,677,122,694,129,Sunglasses
+data/test/c069f2e8e59686fc.jpg,420,426,602,584,High heels
+data/test/c069f2e8e59686fc.jpg,169,340,366,576,High heels
+data/test/c0ce6bf7895c4162.jpg,306,195,596,277,Sunglasses
+data/test/c18ae25d01a796df.jpg,176,319,342,454,Skirt
+data/test/c1a26216903cf4e1.jpg,122,425,361,1019,Shirt
+data/test/c1d892ecf86b36db.jpg,768,186,897,378,Swimwear
+data/test/c20413da301cff43.jpg,463,730,759,1023,Handbag
+data/test/c30eed0823c15ed1.jpg,94,357,295,1022,Shirt
+data/test/c30eed0823c15ed1.jpg,265,471,589,1018,Shirt
+data/test/c30eed0823c15ed1.jpg,515,448,766,1023,Shirt
+data/test/c3872192f07eccb9.jpg,175,386,408,525,Skirt
+data/test/c3a79f111d2be8ff.jpg,304,892,348,983,High heels
+data/test/c3a79f111d2be8ff.jpg,339,862,422,994,High heels
+data/test/c3a7eaa5b3617d3e.jpg,547,431,704,697,Handbag
+data/test/c4ddb8566a98f321.jpg,60,360,284,423,Swimwear
+data/test/c4ddb8566a98f321.jpg,216,203,376,424,Swimwear
+data/test/c4ddb8566a98f321.jpg,425,289,496,371,Swimwear
+data/test/c4ddb8566a98f321.jpg,619,185,720,334,Swimwear
+data/test/c4ddb8566a98f321.jpg,748,406,997,518,Swimwear
+data/test/c54f7f537351018a.jpg,108,43,580,636,Skirt
+data/test/c5ac06b984d92269.jpg,141,231,284,409,High heels
+data/test/c5ac06b984d92269.jpg,341,279,508,489,High heels
+data/test/c5ac06b984d92269.jpg,556,181,663,318,High heels
+data/test/c5ac06b984d92269.jpg,573,20,697,265,High heels
+data/test/c5ac06b984d92269.jpg,650,0,766,260,High heels
+data/test/c5ac06b984d92269.jpg,744,125,793,211,High heels
+data/test/c5ac06b984d92269.jpg,852,138,918,226,High heels
+data/test/c5c64202b0993999.jpg,171,229,337,291,Sunglasses
+data/test/c6356207ee974ca6.jpg,204,17,789,670,Handbag
+data/test/c653686eff4be474.jpg,712,186,1016,451,Skirt
+data/test/c6e57e793ed94624.jpg,137,881,493,1023,Swimwear
+data/test/c6e57e793ed94624.jpg,155,379,558,766,Swimwear
+data/test/c6f4dfb122f178d1.jpg,142,273,360,564,Shirt
+data/test/c787a2c61ff2cb98.jpg,400,209,568,277,Sunglasses
+data/test/c88830cfb16aa5ec.jpg,214,92,466,196,Sunglasses
+data/test/c88830cfb16aa5ec.jpg,504,72,800,182,Sunglasses
+data/test/c88830cfb16aa5ec.jpg,136,281,450,645,Swimwear
+data/test/c88830cfb16aa5ec.jpg,553,605,1022,766,Swimwear
+data/test/c8ce41b9284bf4ef.jpg,23,193,421,639,Shirt
+data/test/c8ce41b9284bf4ef.jpg,517,256,915,682,Shirt
+data/test/c9a798fbd0a11274.jpg,0,348,523,993,High heels
+data/test/c9a798fbd0a11274.jpg,501,227,1022,988,High heels
+data/test/ca1df49885a93323.jpg,355,882,414,1023,High heels
+data/test/ca1df49885a93323.jpg,395,856,498,1017,High heels
+data/test/cb8abd6a20a073b2.jpg,39,426,257,877,Handbag
+data/test/cbceccc900038a04.jpg,146,508,369,716,Skirt
+data/test/cbd53151a3700596.jpg,289,791,343,874,High heels
+data/test/cbd53151a3700596.jpg,465,802,541,871,High heels
+data/test/cc6edf7feedbfd70.jpg,0,474,126,583,Skirt
+data/test/cc6edf7feedbfd70.jpg,128,382,355,540,Skirt
+data/test/cd7615f12f265cee.jpg,622,409,982,721,Skirt
+data/test/cd9402972dc0b55c.jpg,447,329,960,683,Shirt
+data/test/cd9402972dc0b55c.jpg,0,326,477,678,Shirt
+data/test/ce044dbab7bc0153.jpg,470,346,581,384,Sunglasses
+data/test/ce91317c487d4336.jpg,387,417,460,449,Sunglasses
+data/test/ce91317c487d4336.jpg,608,299,688,336,Sunglasses
+data/test/ceef213894229eb8.jpg,190,329,620,681,Shirt
+data/test/cf2f23ea6433df17.jpg,154,718,378,921,High heels
+data/test/d003c404aa7bd000.jpg,263,26,293,42,Swimwear
+data/test/d003c404aa7bd000.jpg,364,1,399,37,Swimwear
+data/test/d003c404aa7bd000.jpg,364,64,400,85,Swimwear
+data/test/d003c404aa7bd000.jpg,399,0,420,30,Swimwear
+data/test/d003c404aa7bd000.jpg,404,55,444,89,Swimwear
+data/test/d003c404aa7bd000.jpg,499,0,540,40,Swimwear
+data/test/d003c404aa7bd000.jpg,644,10,690,49,Swimwear
+data/test/d003c404aa7bd000.jpg,689,108,769,194,Swimwear
+data/test/d003c404aa7bd000.jpg,697,203,768,241,Swimwear
+data/test/d003c404aa7bd000.jpg,878,115,940,146,Swimwear
+data/test/d003c404aa7bd000.jpg,894,17,957,73,Swimwear
+data/test/d003c404aa7bd000.jpg,960,38,990,65,Swimwear
+data/test/d080156ae8bfd79c.jpg,120,420,441,521,Sunglasses
+data/test/d0b048a541757002.jpg,618,218,997,664,Skirt
+data/test/d0d66bd88d45b9a6.jpg,0,287,314,595,Swimwear
+data/test/d0e3ba9d232aa8a9.jpg,0,196,255,565,Shirt
+data/test/d0e3ba9d232aa8a9.jpg,1,175,57,423,Shirt
+data/test/d0e3ba9d232aa8a9.jpg,201,128,552,518,Shirt
+data/test/d3daf57750f7245d.jpg,78,0,1022,699,Shirt
+data/test/d3e5970ab91457d9.jpg,181,378,279,427,Sunglasses
+data/test/d3e5970ab91457d9.jpg,560,133,648,167,Sunglasses
+data/test/d3e5970ab91457d9.jpg,650,124,748,190,Sunglasses
+data/test/d4ba963441585f46.jpg,772,357,829,400,Swimwear
+data/test/d4ba963441585f46.jpg,778,454,838,487,Swimwear
+data/test/d7c876a50a195b87.jpg,216,173,389,341,Swimwear
+data/test/d7c876a50a195b87.jpg,225,443,384,537,Swimwear
+data/test/d7c876a50a195b87.jpg,438,464,597,544,Swimwear
+data/test/d7c876a50a195b87.jpg,441,185,571,343,Swimwear
+data/test/d8c98b853547e495.jpg,272,327,353,488,Handbag
+data/test/d9a3f13233caf66b.jpg,203,889,407,1003,High heels
+data/test/d9c74675b1a238ef.jpg,73,351,381,501,Skirt
+data/test/db58dceac31f918c.jpg,196,149,695,603,High heels
+data/test/db58dceac31f918c.jpg,331,136,809,515,High heels
+data/test/dc07ee1f5224d63a.jpg,604,260,788,606,Handbag
+data/test/dcf9471bf2a0e133.jpg,398,417,984,764,Shirt
+data/test/dcf9471bf2a0e133.jpg,828,372,849,399,Shirt
+data/test/ddf40f3b645bdc62.jpg,269,576,494,691,Skirt
+data/test/df252b9e946a0b5f.jpg,46,339,371,757,Shirt
+data/test/df252b9e946a0b5f.jpg,300,332,677,720,Shirt
+data/test/df9cb03d60ce3383.jpg,202,134,325,189,Sunglasses
+data/test/df9cb03d60ce3383.jpg,426,222,465,250,Sunglasses
+data/test/df9cb03d60ce3383.jpg,646,267,668,285,Sunglasses
+data/test/e107d434009b66a1.jpg,651,224,748,268,Sunglasses
+data/test/e107d434009b66a1.jpg,818,478,865,498,Sunglasses
+data/test/e30fa6eb3f0c1747.jpg,170,375,241,460,Swimwear
+data/test/e30fa6eb3f0c1747.jpg,172,302,215,348,Swimwear
+data/test/e3e3b90c82c9ab8a.jpg,294,574,487,692,Skirt
+data/test/e4b1693de24cf068.jpg,816,504,931,720,High heels
+data/test/e4b1693de24cf068.jpg,615,514,768,728,High heels
+data/test/e5178d3fb49af750.jpg,111,32,760,657,Handbag
+data/test/e5320e49ae35e07d.jpg,727,308,970,623,Shirt
+data/test/e5fa3df8adf999c7.jpg,232,314,590,557,Swimwear
+data/test/e735770dacf05aec.jpg,286,194,417,268,Sunglasses
+data/test/e735770dacf05aec.jpg,110,259,494,683,Shirt
+data/test/e7a29c7c17ebc13d.jpg,268,609,347,698,High heels
+data/test/e7a29c7c17ebc13d.jpg,286,601,361,686,High heels
+data/test/e7a29c7c17ebc13d.jpg,363,612,439,707,High heels
+data/test/e7a29c7c17ebc13d.jpg,441,596,490,688,High heels
+data/test/e7a29c7c17ebc13d.jpg,490,606,552,666,High heels
+data/test/e869aed39db4661c.jpg,442,202,789,651,Shirt
+data/test/e875c744133ce645.jpg,58,644,328,986,Skirt
+data/test/e886ca32b4c03220.jpg,177,667,675,1012,Handbag
+data/test/ea6056472989e361.jpg,345,247,728,416,Sunglasses
+data/test/ed25b1f776759304.jpg,83,512,119,534,Swimwear
+data/test/ed25b1f776759304.jpg,133,511,163,527,Swimwear
+data/test/ed25b1f776759304.jpg,136,443,170,482,Swimwear
+data/test/ed25b1f776759304.jpg,401,461,428,489,Swimwear
+data/test/ed25b1f776759304.jpg,415,425,451,443,Swimwear
+data/test/ed25b1f776759304.jpg,610,368,630,391,Swimwear
+data/test/ed25b1f776759304.jpg,912,377,933,394,Swimwear
+data/test/eebf552648eb405c.jpg,440,335,610,612,Handbag
+data/test/efe59b02df43b9c6.jpg,62,162,412,545,High heels
+data/test/efe59b02df43b9c6.jpg,381,138,639,551,High heels
+data/test/f0ad95b8fc9283e5.jpg,570,387,608,409,Swimwear
+data/test/f0ad95b8fc9283e5.jpg,604,383,647,409,Swimwear
+data/test/f0ad95b8fc9283e5.jpg,705,398,748,416,Swimwear
+data/test/f0ad95b8fc9283e5.jpg,723,352,768,392,Swimwear
+data/test/f10ad555e0f9bba9.jpg,476,531,556,709,Shirt
+data/test/f117773baa18d21a.jpg,581,201,884,456,Sunglasses
+data/test/f18a59d28f09c5cc.jpg,203,521,494,711,Skirt
+data/test/f644569516d4cb9d.jpg,0,182,48,413,Swimwear
+data/test/f644569516d4cb9d.jpg,41,243,106,413,Swimwear
+data/test/f644569516d4cb9d.jpg,302,444,455,499,Swimwear
+data/test/f644569516d4cb9d.jpg,316,223,455,352,Swimwear
+data/test/f644569516d4cb9d.jpg,445,232,547,464,Swimwear
+data/test/f644569516d4cb9d.jpg,611,208,700,389,Swimwear
+data/test/f644569516d4cb9d.jpg,671,408,750,469,Swimwear
+data/test/f644569516d4cb9d.jpg,695,242,748,342,Swimwear
+data/test/f644569516d4cb9d.jpg,748,427,899,506,Swimwear
+data/test/f644569516d4cb9d.jpg,784,229,917,362,Swimwear
+data/test/f644569516d4cb9d.jpg,953,397,1013,434,Swimwear
+data/test/f644569516d4cb9d.jpg,997,294,1023,341,Swimwear
+data/test/f710ecaf23b5d65b.jpg,666,99,828,231,Sunglasses
+data/test/fb00cbf515582c3f.jpg,206,445,374,685,High heels
+data/test/fb943cb1e1faf320.jpg,227,20,351,302,Handbag
+data/test/fb943cb1e1faf320.jpg,360,170,682,600,Handbag
+data/test/fb943cb1e1faf320.jpg,688,97,946,556,Handbag
+data/test/fbee82802aba147c.jpg,360,83,455,284,Sunglasses
+data/test/fc432bd3391806fc.jpg,0,375,59,595,Skirt
+data/test/fc432bd3391806fc.jpg,4,383,126,599,Skirt
+data/test/fc432bd3391806fc.jpg,65,383,327,644,Skirt
+data/test/fc432bd3391806fc.jpg,280,393,489,614,Skirt
+data/test/fc432bd3391806fc.jpg,523,396,801,622,Skirt
+data/test/fc432bd3391806fc.jpg,726,409,916,630,Skirt
+data/test/fd01ad136788ea2a.jpg,2,327,681,1021,Shirt
+data/test/fe9ebb91cf35b1b5.jpg,366,472,478,535,Swimwear
+data/test/fe9ebb91cf35b1b5.jpg,387,386,481,461,Swimwear
+data/test/fe9ebb91cf35b1b5.jpg,588,310,684,379,Swimwear
+data/test/fe9ebb91cf35b1b5.jpg,611,425,703,471,Swimwear
+data/test/fe9ebb91cf35b1b5.jpg,842,370,926,424,Swimwear
+data/test/fe9ebb91cf35b1b5.jpg,845,277,928,335,Swimwear
