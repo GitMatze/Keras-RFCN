@@ -1,6 +1,8 @@
 from matplotlib import pyplot as plt
+import matplotlib.patches as patches
 import cv2
 import numpy as np
+
 
 
 def plot_images(dataset, n_images=3):
@@ -11,28 +13,19 @@ def plot_images(dataset, n_images=3):
 
         img = dataset.load_image(rnd)
 
+        bboxes,_ = dataset.load_bbox(rnd)
+        labels = list([box['class'] for box in dataset.image_info[rnd]["bboxes"]])
 
-        #path = dataset.image_info[rnd]["path"]
-        bboxes = dataset.image_info[rnd]["bboxes"]
-
-        #img = cv2.imread(path)
-
-
-
-        for row in bboxes:
-            xmin = row['x1']
-            xmax = row['x2']
-            ymin = row['y1']
-            ymax = row['y2']
-            category = row['class']
-
-            cv2.rectangle(img, (xmin, ymin), (xmax, ymax), (50,50,250), 6)
-            font = cv2.FONT_HERSHEY_SIMPLEX
-            cv2.putText(img, category, (xmin, ymin-10), font, 1, (50,50,250), 3)
-
-
-
-        plt.figure()
+        fig,ax = plt.subplots()
         plt.grid()
         plt.imshow(img)
+
+        for box,label in zip(bboxes,labels):
+            y1, x1, y2, x2 = box
+            p = patches.Rectangle((x1, y1), x2 - x1, y2 - y1, linewidth=2,
+                                  alpha=0.7, linestyle="dashed",
+                                  edgecolor="red", facecolor='none')
+            ax.add_patch(p)
+            plt.text(x1,y1,label, fontsize=15, color="red")
+
         plt.show()
