@@ -250,7 +250,7 @@ class Dataset(object):
             "source": source,
             "path": path,
         }
-        image_info.update(kwargs)
+        image_info.update(kwargs)   #erweitert das Dictionary automatisch mit zusätzlich gegebenen Paaren
         self.image_info.append(image_info)
 
     def image_reference(self, image_id):

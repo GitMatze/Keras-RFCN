@@ -17,6 +17,7 @@ import os
 import pickle
 import numpy as np
 from PIL import Image
+from utils.visualize import plot_images
 
 ############################################################
 #  Config
@@ -120,6 +121,8 @@ if __name__ == '__main__':
     dataset_val = FashionDataset()
     dataset_val.initDB(30, start=300)
     dataset_val.prepare()
+
+    plot_images(dataset_train)  #just for testing
 
     model = RFCN_Model(mode="training", config=config, model_dir=os.path.join(ROOT_DIR, "logs") )
 
