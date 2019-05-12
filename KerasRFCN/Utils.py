@@ -242,6 +242,9 @@ class Dataset(object):
         })
 
     def add_image(self, source, image_id, path, **kwargs):
+        """image_info ist eine Liste von dictionaries. Der index der Liste entspricht
+        dem index des Bildes im dictionary
+        """
         image_info = {
             "id": image_id,
             "source": source,
